@@ -1,6 +1,6 @@
 # Diplomka Skills
 
-Tento projekt obsahuje asistenta (skill) pro GitHub Copilot, který pomáhá studentům s psaním diplomových prací.
+Tento projekt obsahuje asistenta (skill) pro GitHub Copilot nebo Claude Code, který pomáhá studentům s psaním diplomových prací.
 
 ## O projektu
 
@@ -22,7 +22,7 @@ Asistent poskytuje rady v následujících oblastech:
 
 ## Jak používat
 
-Pokud máte tento repozitář otevřený ve VS Code s aktivním GitHub Copilotem, asistent se automaticky aktivuje pro dotazy týkající se psaní diplomové práce.
+Pokud máte tento repozitář otevřený ve VS Code s aktivním GitHub Copilotem nebo Claude Codem, asistent se automaticky aktivuje pro dotazy týkající se psaní diplomové práce.
 
 ---
 *Vždy komunikuje v českém jazyce.*
